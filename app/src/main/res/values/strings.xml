@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Taskie</string>
+    <string name="newTaskHeadingText">New task:</string>
+    <string name="newTaskTitleInputHint">Enter task title</string>
+    <string name="newTaskDescriptionInputHint">Enter task description</string>
+    <string name="lowPriority">Low</string>
+    <string name="mediumPriority">Medium</string>
+    <string name="highPriority">High</string>
+    <string name="saveTaskActionText">Save</string>
+    <string name="emptyFields">Check your inputs</string>
+    <string name="noTaskFound">No such task found</string>
+    <string name="no_data">No data! :(</string>
+    <string name="aboutApplicationText">This application is used for storing tasks.\nYou can input task title, description.\nYou can also set task priority to low, medium and high priority</string>
+    <string name="authorText">Made by Osijek Software City Android Academy</string>
+    <string name="delete_tasks">Delete tasks</string>
+    <string name="sort_tasks_by_priority">Sort tasks by priority</string>
+    <string name="editTaskButton">EDIT TASK</string>
+
+</resources>
